@@ -32,13 +32,13 @@ Here are a few technologies I've been working with recently:
 ### 🤝 Let's Connect!
 
 <p align="center">
-  <a href="https://twitter.com/YOUR_TWITTER_HANDLE" target="_blank">
+  <a href="https://x.com/Shashwat_AGupta" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
   </a>
   <a href="https://linkedin.com/in/shashwat-a-gupta-719588257/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://your-portfolio.com" target="_blank">
+  <a href="https://fortpolio-dun.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-6366F1?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio" />
   </a>
 </p>
