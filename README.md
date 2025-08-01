@@ -1,7 +1,7 @@
 Hi there, I'm SHASHWAT 👋
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_REPO_NAME/main/assets/header.png" alt="Header Image" />
+  <img src="https://drive.google.com/file/d/1aqnVvhT2eyOuUi16iTY5IVGg9f48VxVe/view?usp=drive_link" alt="Header Image" />
 </p>
 
 Coding passionate about building real-time systems and full-stack applications. Proficient in React, Node.js,
