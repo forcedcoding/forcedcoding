@@ -1,8 +1,6 @@
 Hi there, I'm SHASHWAT 👋
 
-<p align="center">
-  <img src="https://drive.google.com/file/d/1aqnVvhT2eyOuUi16iTY5IVGg9f48VxVe/view?usp=drive_link" alt="Header Image" />
-</p>
+
 
 Coding passionate about building real-time systems and full-stack applications. Proficient in React, Node.js,
 MongoDB, Express, and NextJS. Solved 500+ DSA problems on LeetCode & HackerRank. Quick learner and collaborative
