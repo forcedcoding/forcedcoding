@@ -1,4 +1,4 @@
-<img src="https://drive.google.com/file/d/1Af69V-HcoA_sTwwkUdPG0aN6DIgNgwjU/view?usp=sharing" alt="Girl in a jacket">
+<img src="v627-aew-41-technologybackground.jpg" alt="Girl in a jacket">
 Hi there, I'm SHASHWAT 👋
 
 
